@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">React, Spring Boot, Flutter 등 다양한 환경에서 프로젝트를 경험했고,
-임베딩 모델 기반의 LLM 구현과, Java 기반의 백엔드 개발에 특히 관심이 있습니다.</p>
+<p align="left">React, Spring Boot, Flutter 등 다양한 환경에서 프로젝트를 경험했고, 
+  임베딩 모델 기반의 LLM 구현과, Java 기반의 백엔드 개발에 특히 관심이 있습니다.</p>
 
 ###
 
