@@ -1,9 +1,9 @@
-<h1 align="left">안녕하세요 장연우입니다.</h1>
+<h1 align="left">안녕하세요 개발자 장연우입니다.</h1>
 
 ###
 
-<p align="left">React, Spring Boot, Flutter 등 다양한 환경에서 프로젝트를 경험하였고,</p>
-<p align="left">특히 Java 기반 Spring Boot 백엔드 개발과, 임베딩 모델 기반의 LLM 구현에 관심이 있습니다.</p>
+<!-- <p align="left">React, Spring Boot, Flutter 등 다양한 환경에서 프로젝트를 경험하였고,</p>
+<p align="left">특히 Java 기반 Spring Boot 백엔드 개발과, 임베딩 모델 기반의 LLM 구현에 관심이 있습니다.</p> -->
 
 ###
 
